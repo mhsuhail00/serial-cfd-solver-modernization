@@ -1,0 +1,45 @@
+# -------------------------
+# Build Artifacts
+# -------------------------
+solver_v0
+solver_v1
+solver_v2
+solver_v3
+solver_v4
+solver_v5
+
+# Any other executables
+*.out
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Fortran module files
+*.mod
+*.smod
+
+# Backup / temp files
+*~
+*.tmp
+*.bak
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VSCode / JetBrains
+.vscode/
+.idea/
+
+# Generated figures (optional)
+figures/*.png
+figures/*.pdf
+
+# Build directory (if created later)
+build/
+bin/
